@@ -2,7 +2,7 @@
     session_start();
     require 'connection.php';
     if(!isset($_SESSION['email'])){
-        header('location:index.php');
+        header('location:index.html');
     }else{
         $user_id=$_GET['id'];
         $confirm_query="update users_items set status='Confirmed' where user_id=$user_id";
