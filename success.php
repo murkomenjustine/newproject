@@ -47,8 +47,8 @@
             <footer class="footer">
                <div class="container">
                <center>
-                   <p>Copyright &copy Lifestyle Store. All Rights Reserved. | Contact Us: +91 90000 00000</p>
-                   <p>This website is developed by Sajal Agrawal</p>
+                   <p>Copyright &copy Lifestyle Store. All Rights Reserved. | Contact Us: +254713522579</p>
+                   <p>This website is developed by Murkomen Justine</p>
                </center>
                </div>
            </footer>
